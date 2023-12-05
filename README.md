@@ -8,3 +8,4 @@ In this repository : reg2d.py -> python code,
                     database base0.txt, 
                     also scriptChD.sh to run multiple cases 
                     and plot.gp to plot the results.
+                    ![Uploading ml_regression2D.gif…]()
