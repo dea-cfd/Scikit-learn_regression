@@ -9,8 +9,15 @@ In this repository : reg2d.py -> python code,
                     also scriptChD.sh to run multiple cases 
                     and plot.gp to plot the results.
 
-Here is an example:
-![color picker][my-gif]
+Here is an example 1D:
 
-[my-gif]:
+![color picker][my-gif1]
+
+[my-gif1]:
+https://github.com/dea-cfd/Scikit-learn_regression/blob/main/ml_regression.gif
+
+Here is an example 2D:
+![color picker][my-gif2]
+
+[my-gif2]:
 https://github.com/dea-cfd/Scikit-learn_regression/blob/main/ml_regression2D.gif
